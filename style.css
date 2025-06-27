@@ -1,3 +1,8 @@
 body{
     background:darkred
+    margin:0px;
+    
+}
+header{
+    border:solid 2px black
 }
