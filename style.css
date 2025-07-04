@@ -1,8 +1,8 @@
 body{
-    background:darkred
-    margin:0px;
-    
-}
+    background: white;
+    margin: 0px;
+    color:black;
+} 
 header{
     border:solid 2px black
 }
